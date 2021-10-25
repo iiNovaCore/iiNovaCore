@@ -1,6 +1,6 @@
-@NovaCore#4449
-@iiNovaCore on bird app
-iiNovaCore on osu!
+-@NovaCore#4449
+-@iiNovaCore on bird app
+-iiNovaCore on osu!
 
 
 <!---

@@ -1,5 +1,5 @@
 that nova thing. web pwner at ResetSec. hoping to specialize in client side web exploitation, but was a generalist/fill player for 3 years. i do a bit of everything though.
-to contact me get my email from the following crypto chall. it's very easy.
+to contact me, get my email from the following crypto chall. it's very easy.
 
 encrypt.py:
 ```python

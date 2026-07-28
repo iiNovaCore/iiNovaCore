@@ -1,4 +1,4 @@
-that nova thing. web pwner at ResetSec. was a generalist/fill player for 3 years. i do a bit of everything though. #1 solver and crew at breachlabs.org
+that nova thing. web pwner at ResetSec. was a generalist/fill player for 3 years. i do a bit of everything though. #1 solver and crew at breachlab.org
 
 i also play osu! and Valorant
 
